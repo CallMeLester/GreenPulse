@@ -1,6 +1,6 @@
 # GreenPulse
 
-🌱 **Green Pulse** est un site web vitrine présentant une solution d’hébergement numérique à haute performance, conçue pour optimiser la consommation énergétique et réduire l’impact environnemental des infrastructures IT.
+🌱 **GreenPulse** est un site web vitrine présentant une solution d’hébergement numérique à haute performance, conçue pour optimiser la consommation énergétique et réduire l’impact environnemental des infrastructures IT.
 
 Le projet met en avant une approche responsable du numérique, combinant **performance, sécurité et pilotage énergétique avancé**.
 
@@ -82,4 +82,4 @@ Licence à définir.
 
 ---
 
-🌍 *Green Pulse — Infrastructure numérique performante et responsable.*
+🌍 *GreenPulse — Infrastructure numérique performante et responsable.*
