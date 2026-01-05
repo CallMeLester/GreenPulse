@@ -8,7 +8,7 @@ Le projet met en avant une approche responsable du numérique, combinant **perfo
 
 ## 🧠 Présentation du projet
 
-Green Pulse s’adresse aux entreprises et organisations souhaitant héberger leurs environnements numériques tout en maîtrisant leur empreinte énergétique et carbone.
+GreenPulse s’adresse aux entreprises et organisations souhaitant héberger leurs environnements numériques tout en maîtrisant leur empreinte énergétique et carbone.
 
 Les principaux axes du projet :
 
@@ -69,7 +69,7 @@ Les principaux axes du projet :
 
 ## 📞 Contact
 
-**Green Pulse**  
+**GreenPulse**  
 214 Av. Francis Tonner, 06150 Cannes, France  
 contact@greenpulse.fr  
 +4 80 66 17 71  
